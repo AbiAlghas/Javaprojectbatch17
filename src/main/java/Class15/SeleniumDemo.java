@@ -2,7 +2,7 @@ package Class15;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class SelinumDemo {
+public class SeleniumDemo {
     public static void main(String[] args) throws InterruptedException {
 
 
